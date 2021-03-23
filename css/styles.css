@@ -6481,6 +6481,8 @@ a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
   background-color: #ee3e0d !important;
+  background-image: url("https://i.imgur.com/LPmubIx.jpg?2");
+  background-repeat: no-repeat;
 }
 
 .bg-secondary {
